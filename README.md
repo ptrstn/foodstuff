@@ -10,14 +10,13 @@ Source: *Cavero-Redondo I, Alvarez-Bueno C, Sotos-Prieto M, Gil A, Martinez-Vizc
 
 ## Coronary Heart Disease by Country
 
-JSON Data:
+**JSON Data**  
+Female: https://www.worldlifeexpectancy.com/j/country-cause?cause=1130&order=hight&gender=F  
+Male: https://www.worldlifeexpectancy.com/j/country-cause?cause=1130&order=hight&gender=M  
+Both: https://www.worldlifeexpectancy.com/j/country-cause?cause=1130&order=hight&gender=B  
 
-Female: https://www.worldlifeexpectancy.com/j/country-cause?cause=1130&order=hight&gender=F
-Male: https://www.worldlifeexpectancy.com/j/country-cause?cause=1130&order=hight&gender=M
-Both: https://www.worldlifeexpectancy.com/j/country-cause?cause=1130&order=hight&gender=B
-
-Source: *https://www.worldlifeexpectancy.com/cause-of-death/coronary-heart-disease/by-country/*
-Data Source: *WORLD HEALTH ORGANIZATION 2018*
+Source: *https://www.worldlifeexpectancy.com/cause-of-death/coronary-heart-disease/by-country/*  
+Data Source: *WORLD HEALTH ORGANIZATION 2018*  
 
 ## Links
 
