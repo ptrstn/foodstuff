@@ -16,7 +16,12 @@ Male: https://www.worldlifeexpectancy.com/j/country-cause?cause=1130&order=hight
 Both: https://www.worldlifeexpectancy.com/j/country-cause?cause=1130&order=hight&gender=B  
 
 Source: *https://www.worldlifeexpectancy.com/cause-of-death/coronary-heart-disease/by-country/*  
-Data Source: *WORLD HEALTH ORGANIZATION 2018*  
+Data Source: *WORLD HEALTH ORGANIZATION 2018* 
+
+Data Sets:
+- https://catalog.data.gov/dataset/rates-and-trends-in-coronary-heart-disease-and-stroke-mortality-data-among-us-adults-1999--276f6
+- https://catalog.data.gov/dataset/rates-and-trends-in-coronary-heart-disease-and-stroke-mortality-data-among-us-adults-1999-
+
 
 ## Links
 
